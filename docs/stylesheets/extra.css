@@ -178,6 +178,10 @@ input{
   border-color: #01693F !important; 
 }
 
+.md-grid {
+  max-width: 1000px;
+}
+
 /*.md-sidebar--primary {
   visibility: hidden;
   width: 150px;
