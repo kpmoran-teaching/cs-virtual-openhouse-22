@@ -31,6 +31,7 @@ theme:
   #      name: Switch to light mode
 
 plugins:
+    - search
     - encryptcontent:
         title_prefix: '[Protected]'
         summary: 'This Content is Password Protected'
